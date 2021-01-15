@@ -1,0 +1,8 @@
+{
+    "Root": {
+    "Value": 2,
+    "Children": [{"Value": 5, "Children": [{"Value": 2, "Children": []}, {"Value": 7, "Children": []}, {"Value": 4, "Children": []}]}, 
+        {"Value": 8, "Children": [{"Value": 3, "Children": []}, {"Value": 2, "Children": []}, {"Value": 9, "Children": []}]}, 
+        {"Value": 10, "Children": [{"Value": 3, "Children": []}, {"Value": 8, "Children": []}, {"Value": 6, "Children": []}]}]
+    }
+}
